@@ -1,11 +1,10 @@
+# 2022년도 초등학생 대상 콘텐츠 이용 실태 조사
+
 ## Skills
 <img src="https://img.shields.io/badge/sql-F7931E?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/sqlalchemy-003B57?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>&nbsp;
-
-## 프로젝트 제목
-**2022년도 초등학생 대상 콘텐츠 이용 실태 조사**
 
 ## 프로젝트 상세
 
